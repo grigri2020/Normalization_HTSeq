@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 #Use the mygene library. If not please install it. 
+####
+### THIS CODE IS FROM THIS WEBSITE
+###  https://www.biostars.org/p/337739/#337832
+##############################################
+
 import sys
 import mygene
 
